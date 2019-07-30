@@ -54,7 +54,7 @@
 
 ``` bash
 # clone the repo into your disk.
-$ git clone https://github.com/1049759078/travel.git
+$ git clone https://github.com/jcops/travel.git
 
 # install dependencies
 $ npm install
